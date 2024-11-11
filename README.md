@@ -1,6 +1,7 @@
 ## Hi there 👋
+## - 🔭 I’m currently working on software engineering and cybersecurity projects
+## - 🌱 I’m currently learning computer science and software engineering
 
-<!--
 **ouad002/ouad002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
